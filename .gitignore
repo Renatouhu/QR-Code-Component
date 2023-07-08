@@ -15,6 +15,7 @@
 .DS_Store
 .prettierignore
 
-*.md
+*README-TEMPLATE.md
+*style-guide.md
 
 **/design
