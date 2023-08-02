@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+<img src="https://github.com/Renatouhu/Assets/blob/main/qr-code-component/Qr code photo.png" width="100%">
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+<p style="text-align:center;">This is a solution to the <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">QR code component challenge on Frontend Mentor</a>. Frontend Mentor challenges help you improve your coding skills by building realistic projects. </p>
 
 ## Table of contents
 
